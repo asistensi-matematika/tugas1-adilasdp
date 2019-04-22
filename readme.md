@@ -43,12 +43,10 @@ Input : 0 0 0
 Output :
 Input a tidak boleh 0
 
-SCREENSHOT HASIL RUN
-![alpro1](https://user-images.githubusercontent.com/49528382/56495297-85852d80-651f-11e9-8e21-b6653849514a.jpg)
-![alpro2](https://user-images.githubusercontent.com/49528382/56495341-aea5be00-651f-11e9-9dce-a16a061604c9.jpg)
-![alpro3](https://user-images.githubusercontent.com/49528382/56495382-c8df9c00-651f-11e9-897c-36cea8c01a8b.jpg)
-![alpro4](https://user-images.githubusercontent.com/49528382/56495410-dbf26c00-651f-11e9-8f55-566392e37aeb.jpg)
-
-
+SCREENSHOT HASIL RUNNING
+![1](https://user-images.githubusercontent.com/49528382/56507387-571d4780-654b-11e9-96d8-d02fcfc8c2cf.png)
+![2](https://user-images.githubusercontent.com/49528382/56507388-571d4780-654b-11e9-8ea7-3ebbc700964f.png)
+![3](https://user-images.githubusercontent.com/49528382/56507389-57b5de00-654b-11e9-9c0f-299d9437b270.png)
+![4](https://user-images.githubusercontent.com/49528382/56507390-57b5de00-654b-11e9-818e-709464a106d5.png)
 
 [link ke laporan]
